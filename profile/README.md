@@ -5,7 +5,7 @@ texshelf starts LaTeX and Typst projects from templates. Browse them at
 
 ```console
 texshelf init article my-paper
-typshelf init typ-notes calculus
+typshelf init notes-typst calculus
 ```
 
 | Repository | Contents |

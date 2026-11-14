@@ -30,4 +30,14 @@ typshelf init notes-typst calculus
 - Read the [contributing guide](https://github.com/texshelf/.github/blob/main/CONTRIBUTING.md)
   and the [code of conduct](https://github.com/texshelf/.github/blob/main/CODE_OF_CONDUCT.md).
 
+## Star history
+
+<a href="https://www.star-history.com/?repos=texshelf%2Ftexshelf%2Ctexshelf%2Fregistry%2Ctexshelf%2Ftemplates&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=texshelf/texshelf%2Ctexshelf/registry%2Ctexshelf/templates&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=texshelf/texshelf%2Ctexshelf/registry%2Ctexshelf/templates&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=texshelf/texshelf%2Ctexshelf/registry%2Ctexshelf/templates&type=date&legend=top-left" />
+ </picture>
+</a>
+
 Created and maintained by [Juan José Sánchez Medina](https://jjsm.science).

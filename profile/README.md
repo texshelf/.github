@@ -1,5 +1,8 @@
 <img src="https://raw.githubusercontent.com/texshelf/brand/main/logo/lockup.svg" alt="texshelf" width="240">
 
+<img width="1276" height="990" alt="Screenshot 2026-11-14 at 6 37 15 pm" src="https://github.com/user-attachments/assets/95d6dd4d-4381-4927-800e-1c62fee6738a" />
+
+
 texshelf starts LaTeX and Typst projects from templates. Browse them at
 [tex.jjsm.science](https://tex.jjsm.science), or from a terminal:
 

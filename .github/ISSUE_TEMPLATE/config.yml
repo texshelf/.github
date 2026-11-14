@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Request a template or report a broken one
+    url: https://github.com/texshelf/registry/issues/new/choose
+    about: Template issues live in the registry
+  - name: Problem with the texshelf or typshelf command
+    url: https://github.com/texshelf/texshelf/issues/new/choose
+    about: Bugs and feature requests for the CLI
+  - name: Report a security problem
+    url: https://github.com/texshelf/.github/blob/main/SECURITY.md
+    about: Please report these privately

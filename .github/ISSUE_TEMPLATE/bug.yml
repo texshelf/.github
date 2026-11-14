@@ -1,0 +1,20 @@
+name: Something is broken
+description: A page, a workflow or a file in this repository does not work
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: Include the page address or file name, and what you expected instead.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: How to reproduce it
+  - type: input
+    id: where
+    attributes:
+      label: Browser or system
+      placeholder: Firefox 144 on macOS 26

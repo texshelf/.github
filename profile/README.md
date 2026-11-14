@@ -20,4 +20,14 @@ typshelf init notes-typst calculus
 | [brand](https://github.com/texshelf/brand) | Logos and colours |
 | [homebrew-tap](https://github.com/texshelf/homebrew-tap) | Homebrew formula, once there is a release |
 
+## Take part
+
+- Add your template with `texshelf publish`, or
+  [request one](https://github.com/texshelf/registry/issues/new/choose) you
+  would like to see.
+- Report a bug in the [CLI](https://github.com/texshelf/texshelf/issues/new/choose)
+  or a [template](https://github.com/texshelf/registry/issues/new/choose).
+- Read the [contributing guide](https://github.com/texshelf/.github/blob/main/CONTRIBUTING.md)
+  and the [code of conduct](https://github.com/texshelf/.github/blob/main/CODE_OF_CONDUCT.md).
+
 Created and maintained by [Juan José Sánchez Medina](https://jjsm.science).

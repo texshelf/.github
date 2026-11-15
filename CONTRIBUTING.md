@@ -21,7 +21,7 @@ with the manifest filled in.
 
 If the template belongs to someone else, check that its license allows
 redistribution, then write the manifest by hand. The
-[publishing guide](https://github.com/texshelf/texshelf/blob/main/docs/publishing.md)
+[publishing guide](https://github.com/texshelf/docs/blob/main/docs/publishing.md)
 walks through it. List the real authors, never yourself.
 
 If you only know of a template that should be here, open a
